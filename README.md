@@ -1,1 +1,1 @@
-# Inventory-Management-System
+To aim developed an inventory management system using Python and Tkinter GUI. Implemented functionalities for employee, supplier, category, product, sales, and bill generation. Features include CRUD operations for employee details, supplier management with invoice number search, category management, product details management with employee name search, sales invoice viewing, and bill generation with print functionality. Dashboard displays total counts of employees, suppliers, categories, products, and sales, with real-time updates.
